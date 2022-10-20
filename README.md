@@ -1,20 +1,22 @@
 
-$ cargo new hello_cargo --bin
-	cria um repositório com Cargo.toml
+# RUST STUDY
 
-Cargo.toml
-	Arquivo para gerenciamento de dependências
+`$ cargo new hello_cargo --bin`
+* cria um repositório com Cargo.toml
 
-rustc
-	compilador
-println!
-	the '!' sign calls a macro
+`Cargo.toml`
+* Arquivo para gerenciamento de dependências
 
-termos
-	pacotes do rust: crates
+`rustc` 
+* compilador
+`println!`
+* the '!' sign calls a macro
 
-Ambiente online:
+`termos`
+* pacotes do rust: crates
+
+## Ambiente online:
 https://play.rust-lang.org/
 
-Study sessions ministred by vcwild based on the book:
+## Study sessions ministred by vcwild based on the book:
 https://doc.rust-lang.org/book/title-page.html
